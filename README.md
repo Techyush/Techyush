@@ -1,5 +1,5 @@
-### Hi there 👋,Aayush Desai here!
-### I am a BCA Student & I am into Web Development
+### Hello there👋,Aayush Desai here!
+### I am a BCA Student & I am into Web Development💻
 
 <!--
 **Techyush/Techyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
