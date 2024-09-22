@@ -1,5 +1,5 @@
 ### Sup!
-### I am Mobile developer in React native and Kotlin 💻
+### I am a Mobile developer in React native and Kotlin 💻
 
 <!--
 **Techyush/Techyush** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
